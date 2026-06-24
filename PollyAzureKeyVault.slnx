@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PollyAzureKeyVault/PollyAzureKeyVault.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PollyAzureKeyVault.Tests/PollyAzureKeyVault.Tests.csproj" />
+  </Folder>
+</Solution>
